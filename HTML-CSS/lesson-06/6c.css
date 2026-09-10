@@ -1,0 +1,15 @@
+      p {
+        font-family: Arial;
+      }
+      .title {
+        font-weight: bold;
+      }
+      .tag {
+        color: grey;
+      }
+      .description {
+        width: 630px;
+      }
+      .user {
+        color: #3da7e2d6;
+      }
