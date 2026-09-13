@@ -1,0 +1,25 @@
+body {
+  font-family: Arial;
+}
+p {
+  font-size: 35px;
+  margin: 15px;
+}
+input {
+  width: 300px;
+  margin: 4px;
+  padding: 12px;
+  font-size: 19px;
+  background-color: #bcb7b745;
+  border: none;
+}
+button {
+  margin: 12px 8px;
+  font-size: 19px;
+  padding: 12px 10px;
+  border: none;
+}
+.request {
+  background-color: black;
+  color: white;
+}

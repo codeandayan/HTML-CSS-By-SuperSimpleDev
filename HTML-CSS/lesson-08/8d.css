@@ -1,0 +1,24 @@
+ body {
+  font-family: Arial;
+ }
+ input, button {
+  font-size: 19px;
+  margin: 6px 2px;
+  padding: 9px 4px;
+  border: 1.5px solid #8080808f;
+  border-radius: 8px;
+  width: 150px;
+  padding-left: 15px;
+ }
+ .email {
+  display: block;
+  width: 331px;;
+ }
+ button {
+  width: 353px;
+  font-weight: bold;
+  padding: 15px 40px;
+  background-color: #0A66C2;
+  color: white;
+  cursor: pointer;
+ }
