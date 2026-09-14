@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial;
+  
+}
+img {
+  width: 160px;
+  
+}
+div {
+  margin: 15px;
+  width: 160px;
+  height: 200px;
+  box-shadow: 2px 2px 12px grey;
+  
+}
+h3 {
+  margin: 4px;
+  
+}
+p {
+  margin-left: 6px;
+  font-size: 12px;
+  color: grey;
+}
+button {
+  background-color: #1877F2;
+  color: white;
+  border: none;
+  padding: 4px 12px;
+  margin-left: 4px;
+  margin-top: 4px;
+  font-weight: 500;
+  border-radius: 2px;
+}

@@ -1,5 +1,18 @@
 div {
-    width: 330px;
-    height: 150px;
-    background-color: gray;
+    width: 360px;
+    height: 100px;
+    background-color:  rgba(0, 0, 0, 0.8);
+    font-family: Arial;
+    padding: 8px 12px;
+    
+}
+.title {
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 4px;
+    margin-bottom: 10px;
+}
+.description {
+    color: #aca5a5;
 }
