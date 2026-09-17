@@ -1,0 +1,10 @@
+div div {
+  background-color: lightpink;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+  border: 1px solid gray;
+  align-items: center;
+}

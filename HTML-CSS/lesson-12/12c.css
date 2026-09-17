@@ -1,0 +1,8 @@
+div div {
+  background-color: lightpink;
+
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
