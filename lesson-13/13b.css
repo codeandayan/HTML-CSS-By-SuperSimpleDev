@@ -1,0 +1,12 @@
+.item1 {
+  width: 150px;
+  background-color: lightpink;
+}
+.item2 {
+  width: 100%;
+  background-color: lightblue;
+  display: flex;
+}
+.parent {
+  display: flex;
+}
