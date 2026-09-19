@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="13g.css" />
+    <style>
+      .container {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+      }
+      img {
+        height: 40px;
+        width: 40px;
+        border-radius: 50%;
+      }
+      p {
+        font-family: Arial;
+        margin: 0;
+        font-size: 12px;
+      }
+      .name {
+        font-weight: bold;
+      }
+      .username {
+        color: #5b5a5a;
+        font-weight: normal;
+      }
+      .title {
+        width: 270px;
+        margin-left: 50px;
+        margin-top: -7px;
+        line-height: 15px;
+      }
+      .youtube-preview {
+        width: 250px;
+        height: 70px;
+        border: 1px solid rgba(0, 0, 0, 0.1);
+        border-radius: 15px;
+        margin-left: 50px;
+        margin-top: 12px;
+        display: flex;
+      }
+      .preview {
+        width: 105px;
+        background-color: rgb(216, 216, 216);
+        height: 100%;
+        border-top-left-radius: 15px;
+        border-bottom-left-radius: 15px;
+      }
+      .source {
+        color: grey;
+        margin-left: 8px;
+        margin-top: 8px;
+        margin-bottom: 4px;
+      }
+      .last {
+        margin-left: 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <img src="/HTML-CSS/lesson-07/image.jpg" alt="" />
+      <p class="name">
+        supersimple.dev <span class="username">@SuperSimpleDev</span>
+      </p>
+    </div>
+    <p class="title">
+      What is backend web development? A complete overview. New video is up!
+    </p>
+
+    <div class="youtube-preview">
+      <div class="preview"></div>
+      <div>
+        <p class="source">youtube.com</p>
+        <p class="last">Backend web development - a complete overview (2021)</p>
+      </div>
+    </div>
+  </body>
+</html>

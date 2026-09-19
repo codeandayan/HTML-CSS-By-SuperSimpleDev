@@ -5,8 +5,20 @@
 .item2 {
   width: 100%;
   background-color: lightblue;
-  display: flex;
 }
 .parent {
   display: flex;
+  height: 60px;
+}
+.child {
+  display: flex;
+  justify-content: space-between;
+}
+p {
+  margin: 0;
+}
+.element1,
+.element2 {
+  background-color: black;
+  color: white;
 }

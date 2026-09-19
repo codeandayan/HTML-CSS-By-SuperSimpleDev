@@ -1,0 +1,42 @@
+p {
+  margin: 0;
+  font-family: Arial;
+  font-size: 12px;
+}
+.container {
+  width: 330px;
+  height: 110px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+}
+.all-inboxes {
+  color: grey;
+  margin: 10px;
+}
+img {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.content-box {
+  display: flex;
+}
+.promotions {
+  font-weight: bold;
+  font-size: 14px;
+  display: inline-block;
+}
+.time {
+  display: inline-block;
+  color: grey;
+  margin-left: 80px;
+}
+.sales {
+  font-weight: bold;
+  margin: 2px 0px;
+}
+.message {
+  color: grey;
+}
